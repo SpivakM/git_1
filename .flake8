@@ -1,4 +1,4 @@
 [flake8]
-ignore = E303
+ignore = F541
 exclude = .venv, trash.py
 max-line-length = 120
